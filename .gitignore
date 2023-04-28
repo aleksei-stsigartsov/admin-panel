@@ -1,48 +1,48 @@
 # User preferences
-.DS_Store
+# .DS_Store
 
 # Dependencies
 node_modules
 
-# Builds / Caches
-dist
-storybook-static
-coverage
-*.tsbuildinfo
-**/.vitepress/cache
-**/.vitepress/.temp
-.thumbsmith
+# # Builds / Caches
+# dist
+# storybook-static
+# coverage
+# *.tsbuildinfo
+# **/.vitepress/cache
+# **/.vitepress/.temp
+# .thumbsmith
 
-# Dotenv configs
-.env
-.env.*
+# # Dotenv configs
+# .env
+# .env.*
 
-# Logs
-npm-debug.log
-debug
-.clinic
+# # Logs
+# npm-debug.log
+# debug
+# .clinic
 
-# IDEs / Editors
-.vscode
-*.code-workspace
-.history
-.idea
-*.sublime-settings
-.*.swp
+# # IDEs / Editors
+# .vscode
+# *.code-workspace
+# .history
+# .idea
+# *.sublime-settings
+# .*.swp
 
-# Environments / Workspaces
-.gitpod.yml
-.netlify
+# # Environments / Workspaces
+# .gitpod.yml
+# .netlify
 
-# Temporary files
-TODO
+# # Temporary files
+# TODO
 
-# Directus
-/schema.yaml
-/schema.json
-/api/uploads
-/api/extensions
-/tests/blackbox/uploads
-/tests/blackbox/server-log-*
-/packages/extensions-sdk/temp-extension-*
-*.db
+# # Directus
+# /schema.yaml
+# /schema.json
+# /api/uploads
+# /api/extensions
+# /tests/blackbox/uploads
+# /tests/blackbox/server-log-*
+# /packages/extensions-sdk/temp-extension-*
+# *.db
